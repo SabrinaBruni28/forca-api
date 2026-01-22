@@ -1,7 +1,19 @@
 {
   "categorias": [
-    { "key": "comidas", "name": "Comidas" },
-    { "key": "filmes", "name": "Filmes" },
-    { "key": "animais", "name": "Animais" }
+    {
+      "key": "comidas",
+      "name": "Comidas",
+      "file": "comidas.json"
+    },
+    {
+      "key": "filmes",
+      "name": "Filmes",
+      "file": "filmes.json"
+    },
+    {
+      "key": "animais",
+      "name": "Animais",
+      "file": "animais.json"
+    }
   ]
 }
