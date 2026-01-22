@@ -1,0 +1,7 @@
+{
+  "categorias": [
+    { "key": "comidas", "name": "Comidas" },
+    { "key": "filmes", "name": "Filmes" },
+    { "key": "animais", "name": "Animais" }
+  ]
+}
