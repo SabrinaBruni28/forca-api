@@ -3,6 +3,10 @@
     {
       "key": "portugues",
       "name": "Português"
+    },
+    {
+      "key": "ingles",
+      "name": "Inglês"
     }
   ]
 }

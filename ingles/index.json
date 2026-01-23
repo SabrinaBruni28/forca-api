@@ -1,0 +1,69 @@
+{
+  "categories": [
+    {
+      "key": "movies",
+      "name": "Movies",
+      "file": "movies.json"
+    },
+    {
+      "key": "series",
+      "name": "Series",
+      "file": "series.json"
+    },
+    {
+      "key": "artists",
+      "name": "Artists",
+      "file": "artists.json"
+    },
+    {
+      "key": "foods",
+      "name": "Foods",
+      "file": "foods.json"
+    },
+    {
+      "key": "fruits",
+      "name": "Fruits",
+      "file": "fruits.json"
+    },
+    {
+      "key": "animals",
+      "name": "Animals",
+      "file": "animals.json"
+    },
+    {
+      "key": "countries",
+      "name": "Countries",
+      "file": "countries.json"
+    },
+    {
+      "key": "colors",
+      "name": "Colors",
+      "file": "colors.json"
+    },
+    {
+      "key": "objects",
+      "name": "Objects",
+      "file": "objects.json"
+    },
+    {
+      "key": "professions",
+      "name": "Professions",
+      "file": "professions.json"
+    },
+    {
+      "key": "sports",
+      "name": "Sports",
+      "file": "sports.json"
+    },
+    {
+      "key": "random_words",
+      "name": "Random Words",
+      "file": "random_words.json"
+    },
+    {
+      "key": "hard_words",
+      "name": "Hard Words",
+      "file": "hard_words.json"
+    }
+  ]
+}
