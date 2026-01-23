@@ -1,69 +1,8 @@
 {
-  "categorias": [
+  "linguagens": [
     {
-      "key": "filmes",
-      "name": "Filmes",
-      "file": "filmes.json"
-    },
-    {
-      "key": "series",
-      "name": "Séries",
-      "file": "series.json"
-    },
-    {
-      "key": "artistas",
-      "name": "Artistas",
-      "file": "artistas.json"
-    },
-    {
-      "key": "comidas",
-      "name": "Comidas",
-      "file": "comidas.json"
-    },
-    {
-      "key": "frutas",
-      "name": "Frutas",
-      "file": "frutas.json"
-    },
-    {
-      "key": "animais",
-      "name": "Animais",
-      "file": "animais.json"
-    },
-    {
-      "key": "paises",
-      "name": "Países",
-      "file": "paises.json"
-    },
-    {
-      "key": "cores",
-      "name": "Cores",
-      "file": "cores.json"
-    },
-    {
-      "key": "objetos",
-      "name": "Objetos",
-      "file": "objetos.json"
-    },
-    {
-      "key": "profissoes",
-      "name": "Profissões",
-      "file": "profissoes.json"
-    },
-    {
-      "key": "esportes",
-      "name": "Esportes",
-      "file": "esportes.json"
-    },
-    {
-      "key": "palavras_aleatorias",
-      "name": "Palavras Aleatórias",
-      "file": "palavras_aleatorias.json"
-    },
-    {
-      "key": "palavras_dificeis",
-      "name": "Palavras Difíceis",
-      "file": "palavras_dificeis.json"
+      "key": "portugues",
+      "name": "Português"
     }
   ]
 }
